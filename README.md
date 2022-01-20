@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-Adding a line for rebasing example, then morge changes from myfeature branch too
+Adding a line for rebasing example, then morge changes from myfeature branch too.
+Updating for
 
 ## Purpose
 
